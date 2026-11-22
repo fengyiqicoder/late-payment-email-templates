@@ -3,6 +3,7 @@
 Copy-paste follow-up emails for an unpaid invoice, sorted by **what the client last said**. There are six kinds of reply, each with three tones: friendly, firm and final. They're written for freelancers and small studios.
 
 > Don't want to edit templates? Cc **getpaid@onetagai.com** on your next reminder. Each time the client replies, you get the next email written around what they said. Free while we test it.
+> Or paste the client's reply into the [free reminder generator](https://followup.onetagai.com/) and get the next email in the browser.
 
 | The client said | Templates |
 | --- | --- |
